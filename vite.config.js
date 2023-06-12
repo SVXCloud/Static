@@ -52,9 +52,9 @@ export default defineConfig({
         ],
       },
       manifest: {
-        name: "今日热榜",
+        name: "每日新闻",
         short_name: "DailyHot",
-        description: "汇聚全网热点，热门尽览无余",
+        description: "汇聚全球热点，热门尽览无余",
         display: "standalone",
         start_url: "/",
         theme_color: "#fff",

@@ -8,7 +8,7 @@ export const mainStore = defineStore("main", {
       // 新闻类别
       newsArr: [
         {
-          label: "哔哩哔哩",
+          label: "The New York Times",
           value: "bilibili",
           order: 0,
           show: true,
@@ -62,8 +62,8 @@ export const mainStore = defineStore("main", {
           show: true,
         },
         {
-          label: "百度贴吧",
-          value: "tieba",
+          label: "The Guardian",
+          value: "guardian",
           order: 9,
           show: true,
         },
