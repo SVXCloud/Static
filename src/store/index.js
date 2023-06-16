@@ -9,7 +9,7 @@ export const mainStore = defineStore("main", {
       newsArr: [
         {
           label: "The New York Times",
-          value: "bilibili",
+          value: "nytimes",
           order: 0,
           show: true,
         },
