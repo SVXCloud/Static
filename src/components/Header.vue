@@ -5,7 +5,7 @@
         <img src="/ico/favicon.png" alt="logo" />
         <div class="name">
           <n-text>Daily News</n-text>
-          <n-text :depth="3">SVX TECH</n-text>
+          <n-text :depth="3">Gathering Global Hotspots</n-text>
         </div>
       </div>
       <div class="current-time" v-if="store.timeData">
