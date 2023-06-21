@@ -8,8 +8,8 @@ export const mainStore = defineStore("main", {
       // 新闻类别
       newsArr: [
         {
-          label: "The New York Times",
-          value: "nytimes",
+          label: "Google News",
+          value: "gnews",
           order: 0,
           show: true,
         },
