@@ -14,8 +14,8 @@ export const mainStore = defineStore("main", {
           show: true,
         },
         {
-          label: "微博",
-          value: "weibo",
+          label: "Bing News",
+          value: "bing",
           order: 1,
           show: true,
         },
@@ -50,8 +50,8 @@ export const mainStore = defineStore("main", {
           show: true,
         },
         {
-          label: "澎湃新闻",
-          value: "thepaper",
+          label: "New York Times",
+          value: "nytimes",
           order: 7,
           show: true,
         },
